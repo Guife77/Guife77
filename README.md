@@ -1,4 +1,4 @@
-👋 Olá! Sou estudante de Ciência da Computação na UNIP e apaixonado por tecnologia e desenvolvimento de soluções eficientes.
+👋 Olá! Sou estudante de Ciência da Computação na UNIP
 
 Atualmente trabalho na área de IT Technical Support, onde tenho contato direto com infraestrutura, resolução de problemas técnicos e suporte a sistemas internos. Paralelamente, venho me desenvolvendo como back-end developer, com projetos pessoais e estudos focados em Node.js, Java e Python, além de conhecimentos em HTML/CSS para construção de interfaces básicas.
 
