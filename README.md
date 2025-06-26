@@ -43,11 +43,10 @@
 
 ---
 
-## 🚀 Projetos em destaque
-
-- 🔧 Em constante evolução...
-- 💡 Mais atualizações em breve!
-
+### 🚀 Projetos em destaque
+- 🖥️ [Painel de Controle](https://github.com/Guife77/painel_controle): sistema em TypeScript para organizar periféricos  
+- 🤖 [WhatsApp Bot](https://github.com/Guife77/whatsappbot): automação com Python para responder mensagens  
+- 📊 [EDOM - Sistema de Gestão](https://github.com/Guife77/edom-main): sistema em PHP para gerenciamento de eventos e participantes
 ---
 
 
