@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/guilherme-fernandes-564059215">LinkedIn</a> ·
-  <a href="mailto:SEU@EMAIL.COM">E-mail</a> ·
+  <a href="mailto:guilhermefernandes995@gmail.com">E-mail</a> ·
   <em>Disponível para projetos freelance via GFA Systems</em>
 </p>
 
@@ -15,7 +15,7 @@
 
 ## Sobre
 
-Sou o time de TI inteiro de uma importadora com ~30 pessoas — da infraestrutura ao sistema que o comercial abre às 8h da manhã. Isso ensina uma coisa que curso nenhum ensina: quando o código quebra, o bug tem nome, sobrenome e ramal.
+Sou o time de TI inteiro de uma importadora com cerca de 30 pessoas — da infraestrutura ao sistema que o comercial abre às 8h da manhã. Isso ensina uma coisa que curso nenhum ensina: quando o código quebra, o bug tem nome, sobrenome e ramal.
 
 Trabalho principalmente com **back-end e dados**. Entendo o domínio antes de escrever a primeira linha, porque a maior parte dos bugs caros não é de código — é de regra de negócio mal interpretada. Front-end é meio; regra de negócio mora no servidor.
 
@@ -56,7 +56,7 @@ Pipeline de ETL que extrai dados do ERP, normaliza e centraliza em base única, 
 
 - Separação explícita entre camada bruta e camada tratada
 - Foco em consistência, integridade referencial e reuso das informações
-- Base projetada para ser consumida por múltiplos sistemas sem duplicar regra
+- Base projetada para ser consumida por múltiplos sistemas sem duplicar regra de negócio
 
 ---
 
@@ -67,7 +67,7 @@ Plataforma SaaS multi-tenant de precificação e custeio para produtores artesan
 
 - Multi-tenant com isolamento de dados por cliente
 - Autenticação JWT com **rotação de refresh token**
-- **Snapshots imutáveis de custo** — o preço histórico nunca muda quando o insumo muda
+- **Snapshots imutáveis de custo** — o preço histórico não muda quando o insumo muda
 - Billing integrado com Stripe e Mercado Pago
 
 > Aprendizado honesto: construí antes de validar o mercado. Produto tecnicamente sólido, tração baixa. Foi a lição mais cara e mais útil que tive.
@@ -102,7 +102,7 @@ Sistema de inscrição e pagamento para múltiplos eventos, em produção.
 `PHP` `MySQL` `React` `WooCommerce` `PIX`
 
 - Back-end PHP com MySQL, front React entregue como build estático
-- Integração de gateway de pagamento PIX/QR Code
+- Integração de gateway de pagamento PIX / QR Code
 - Manutenção e evolução contínuas em ambiente real de produção
 
 ---
@@ -117,6 +117,16 @@ Aplicação de captura de leads em formato de jogo, rodando offline em telas And
 
 ---
 
+### CobráJá — CRM de cobrança
+Mini CRM de cobrança para microempresas, do protótipo à arquitetura de produção.
+
+`React` `Next.js` `Supabase` `Evolution API`
+
+- Régua de cobrança com disparo automatizado via WhatsApp
+- Modelagem de estados do débito (em aberto, negociado, quitado, inadimplente)
+
+---
+
 ## Também faço (e conta)
 
 - Infraestrutura Microsoft 365 / Intune: Entra ID, Autopilot, Defender for Business, Conditional Access + MFA
@@ -128,18 +138,46 @@ Aplicação de captura de leads em formato de jogo, rodando offline em telas And
 
 ## Atividade
 
+**1.083 contribuições** desde março de 2024 · sequência atual de **27 dias consecutivos**
+
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Guife77&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Guife77&theme=tokyonight&hide_border=true&background=0D1117" />
 </div>
 
+<!--
+CARDS DE STATS — LEIA ANTES DE DESCOMENTAR
+
+Os cards abaixo apontam para SUA instância própria no Vercel. Enquanto você não
+subir, eles vão quebrar (erro 402 = rate limit da instância pública
+compartilhada). Deixe comentado até terminar o passo a passo.
+
+COMO SUBIR (≈10 min):
+1. Fork em github.com/anuraghazra/github-readme-stats
+2. GitHub > Settings > Developer settings > Personal access tokens (classic)
+   > Generate new token > escopo `repo` > copie o token
+3. Vercel > Add New Project > importe o fork
+   > Environment Variables: nome `PAT_1`, valor = o token > Deploy
+4. Anote o domínio gerado (ex: grs-guife77.vercel.app)
+5. Troque SUA-INSTANCIA.vercel.app abaixo pelo seu domínio e descomente
+
+Com token próprio, `count_private=true` passa a contar de verdade os commits
+dos repos privados. Na instância pública isso é ignorado.
+
+Ative também: GitHub > Settings > Profile >
+"Include private contributions on my profile"
+
+Para o activity graph, mesmo processo com o repo
+github.com/ashutosh00710/github-readme-activity-graph
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Guife77&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="98%" />
+  <img height="165em" src="https://SUA-INSTANCIA.vercel.app/api?username=Guife77&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="150em" src="https://SUA-INSTANCIA.vercel.app/api/top-langs/?username=Guife77&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </div>
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guife77&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://SEU-ACTIVITY-GRAPH.vercel.app/graph?username=Guife77&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="98%" />
 </div>
+-->
 
 ---
 
@@ -148,17 +186,5 @@ Aplicação de captura de leads em formato de jogo, rodando offline em telas And
 Curto trocar ideia sobre back-end, arquitetura de dados, performance e como evitar código que vira problema daqui a dois anos.
 
 - **LinkedIn:** [guilherme-fernandes](https://www.linkedin.com/in/guilherme-fernandes-564059215)
-- **E-mail:** guilhermefernandes995@gmail.com
+- **E-mail:** [guilhermefernandes995@gmail.com](mailto:guilhermefernandes995@gmail.com)
 - **Freelance / PJ:** GFA Systems — desenvolvimento sob contrato
-
-<!--
-PENDÊNCIAS SUAS (não dá pra eu resolver):
-
-1. E-mail — aparece em 2 lugares. Troque pelo que você realmente lê.
-2. Confirme se pode citar publicamente: Painel Web, New Database e a plataforma
-   de eventos são ligados a cliente/empregador. Você tem o termo de titularidade
-   do Painel, então nesse está coberto. Nos outros, confira antes.
-3. Fixe 6 repos no perfil (Customize your pins). README vende, pinned repo prova.
-4. Se algum projeto não puder ser aberto, escreva "código proprietário" no lugar
-   do link — projeto sem link e sem explicação parece projeto que não existe.
--->
